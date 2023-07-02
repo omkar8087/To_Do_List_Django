@@ -5,3 +5,7 @@ source env/Scripts/activate
 
 Djangoadmin
 Omkar@123
+
+
+
+git push -u origin main
